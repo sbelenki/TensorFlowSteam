@@ -20,7 +20,7 @@ Connect to Zotac machine through the ssh, then:
 
 ```
 cd /home/desktop/Downloads
-wget cuda_7.5.18_linux.run from the **CUDA link**
+wget cuda_7.5.18_linux.run from the CUDA link
 ```
 
 ## Installing CUDA 7.5
